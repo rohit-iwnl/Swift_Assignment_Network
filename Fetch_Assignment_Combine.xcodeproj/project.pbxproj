@@ -51,6 +51,10 @@
 		B690BFB42BA405ED009BF760 /* Fetch_Assignment_Combine */ = {
 			isa = PBXGroup;
 			children = (
+				B690BFC62BA4061E009BF760 /* Services */,
+				B690BFC52BA4061A009BF760 /* Models */,
+				B690BFC42BA40615009BF760 /* ViewModels */,
+				B690BFC32BA40611009BF760 /* Views */,
 				B690BFB52BA405ED009BF760 /* Fetch_Assignment_CombineApp.swift */,
 				B690BFB72BA405ED009BF760 /* ContentView.swift */,
 				B690BFB92BA405EE009BF760 /* Assets.xcassets */,
@@ -65,6 +69,34 @@
 				B690BFBC2BA405EE009BF760 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		B690BFC32BA40611009BF760 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		B690BFC42BA40615009BF760 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		B690BFC52BA4061A009BF760 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		B690BFC62BA4061E009BF760 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Services;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
